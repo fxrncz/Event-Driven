@@ -1,0 +1,11 @@
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\bin\Debug\01_Laboratory_1_ED.exe.config
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\bin\Debug\01_Laboratory_1_ED.exe
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\bin\Debug\01_Laboratory_1_ED.pdb
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\obj\Debug\01_Laboratory_1_ED.csproj.AssemblyReference.cache
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\obj\Debug\_01_Laboratory_1_ED.frmRegistration.resources
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\obj\Debug\_01_Laboratory_1_ED.Properties.Resources.resources
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\obj\Debug\01_Laboratory_1_ED.csproj.GenerateResource.cache
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\obj\Debug\01_Laboratory_1_ED.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\obj\Debug\01_Laboratory_1_ED.exe
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\obj\Debug\01_Laboratory_1_ED.pdb
+C:\Users\Francis\source\repos\01_Laboratory_1_ED\01_Laboratory_1_ED\obj\Debug\_01_Laboratory_1_ED.FrmConfirm.resources
