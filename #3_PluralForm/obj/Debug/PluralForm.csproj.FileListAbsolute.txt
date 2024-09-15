@@ -1,0 +1,10 @@
+C:\Users\Francis\source\repos\PluralForm\PluralForm\bin\Debug\PluralForm.exe.config
+C:\Users\Francis\source\repos\PluralForm\PluralForm\bin\Debug\PluralForm.exe
+C:\Users\Francis\source\repos\PluralForm\PluralForm\bin\Debug\PluralForm.pdb
+C:\Users\Francis\source\repos\PluralForm\PluralForm\obj\Debug\PluralForm.csproj.AssemblyReference.cache
+C:\Users\Francis\source\repos\PluralForm\PluralForm\obj\Debug\PluralForm.Form1.resources
+C:\Users\Francis\source\repos\PluralForm\PluralForm\obj\Debug\PluralForm.Properties.Resources.resources
+C:\Users\Francis\source\repos\PluralForm\PluralForm\obj\Debug\PluralForm.csproj.GenerateResource.cache
+C:\Users\Francis\source\repos\PluralForm\PluralForm\obj\Debug\PluralForm.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\PluralForm\PluralForm\obj\Debug\PluralForm.exe
+C:\Users\Francis\source\repos\PluralForm\PluralForm\obj\Debug\PluralForm.pdb

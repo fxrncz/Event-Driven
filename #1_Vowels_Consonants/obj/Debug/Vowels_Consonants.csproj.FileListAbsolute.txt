@@ -1,0 +1,10 @@
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\bin\Debug\Vowels_Consonants.exe.config
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\bin\Debug\Vowels_Consonants.exe
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\bin\Debug\Vowels_Consonants.pdb
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\obj\Debug\Vowels_Consonants.csproj.AssemblyReference.cache
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\obj\Debug\Vowels_Consonants.Form1.resources
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\obj\Debug\Vowels_Consonants.Properties.Resources.resources
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\obj\Debug\Vowels_Consonants.csproj.GenerateResource.cache
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\obj\Debug\Vowels_Consonants.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\obj\Debug\Vowels_Consonants.exe
+C:\Users\Francis\source\repos\Vowels_Consonants\Vowels_Consonants\obj\Debug\Vowels_Consonants.pdb

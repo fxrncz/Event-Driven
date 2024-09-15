@@ -1,0 +1,10 @@
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\bin\Debug\WordSortAlphabetical.exe.config
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\bin\Debug\WordSortAlphabetical.exe
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\bin\Debug\WordSortAlphabetical.pdb
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\obj\Debug\WordSortAlphabetical.csproj.AssemblyReference.cache
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\obj\Debug\WordSortAlphabetical.Form1.resources
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\obj\Debug\WordSortAlphabetical.Properties.Resources.resources
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\obj\Debug\WordSortAlphabetical.csproj.GenerateResource.cache
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\obj\Debug\WordSortAlphabetical.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\obj\Debug\WordSortAlphabetical.exe
+C:\Users\Francis\source\repos\WordSortAlphabetical\WordSortAlphabetical\obj\Debug\WordSortAlphabetical.pdb
