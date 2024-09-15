@@ -1,0 +1,11 @@
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\bin\Debug\02_Laboratory_1_ED.exe.config
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\bin\Debug\02_Laboratory_1_ED.exe
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\bin\Debug\02_Laboratory_1_ED.pdb
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\obj\Debug\02_Laboratory_1_ED.csproj.AssemblyReference.cache
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\obj\Debug\_02_Laboratory_1_ED.CashierWindowQueue.resources
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\obj\Debug\_02_Laboratory_1_ED.QueueingForm.resources
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\obj\Debug\_02_Laboratory_1_ED.Properties.Resources.resources
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\obj\Debug\02_Laboratory_1_ED.csproj.GenerateResource.cache
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\obj\Debug\02_Laboratory_1_ED.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\obj\Debug\02_Laboratory_1_ED.exe
+C:\Users\Francis\source\repos\02_Laboratory_1_ED\02_Laboratory_1_ED\obj\Debug\02_Laboratory_1_ED.pdb
