@@ -1,0 +1,10 @@
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\bin\Debug\NumToRomNum.exe.config
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\bin\Debug\NumToRomNum.exe
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\bin\Debug\NumToRomNum.pdb
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\obj\Debug\NumToRomNum.csproj.AssemblyReference.cache
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\obj\Debug\NumToRomNum.Form1.resources
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\obj\Debug\NumToRomNum.Properties.Resources.resources
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\obj\Debug\NumToRomNum.csproj.GenerateResource.cache
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\obj\Debug\NumToRomNum.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\obj\Debug\NumToRomNum.exe
+C:\Users\Francis\source\repos\NumToRomNum\NumToRomNum\obj\Debug\NumToRomNum.pdb

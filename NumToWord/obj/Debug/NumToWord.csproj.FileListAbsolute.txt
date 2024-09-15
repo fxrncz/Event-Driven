@@ -1,0 +1,10 @@
+C:\Users\Francis\source\repos\NumToWord\NumToWord\bin\Debug\NumToWord.exe.config
+C:\Users\Francis\source\repos\NumToWord\NumToWord\bin\Debug\NumToWord.exe
+C:\Users\Francis\source\repos\NumToWord\NumToWord\bin\Debug\NumToWord.pdb
+C:\Users\Francis\source\repos\NumToWord\NumToWord\obj\Debug\NumToWord.csproj.AssemblyReference.cache
+C:\Users\Francis\source\repos\NumToWord\NumToWord\obj\Debug\NumToWord.Form1.resources
+C:\Users\Francis\source\repos\NumToWord\NumToWord\obj\Debug\NumToWord.Properties.Resources.resources
+C:\Users\Francis\source\repos\NumToWord\NumToWord\obj\Debug\NumToWord.csproj.GenerateResource.cache
+C:\Users\Francis\source\repos\NumToWord\NumToWord\obj\Debug\NumToWord.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\NumToWord\NumToWord\obj\Debug\NumToWord.exe
+C:\Users\Francis\source\repos\NumToWord\NumToWord\obj\Debug\NumToWord.pdb
